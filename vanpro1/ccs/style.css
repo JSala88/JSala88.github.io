@@ -1,0 +1,39 @@
+body{
+    background-image: url(../imagesvanpro/IMG_0825.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h1 {
+    text-align: inherit;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4rem;
+    color:deeppink
+    
+
+}
+
+h2 {
+    color: violet
+}
+
+ul {
+    color:rgb(190, 160, 212);
+    font-size: 1.2rem;
+}
+
+p {
+    color: rgb(190, 160, 212);
+    font-size: 1.2rem;
+}
+
+img {
+    align-items: center;
+    width: 200px;
+    height: auto;
+}
+
+footer {
+    background-color: #fff
+}
